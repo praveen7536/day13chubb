@@ -1,0 +1,16 @@
+.output {
+    width: 700px;
+}
+
+div {
+    margin-bottom: 50px;
+}
+
+a {
+    margin: 5px;
+}
+
+strong {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
